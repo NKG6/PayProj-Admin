@@ -1,0 +1,70 @@
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\csc.exe
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\vbc.exe
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\VBCSCompiler.exe
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\PayProj.dll.config
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\PayProj.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\PayProj.pdb
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Antlr3.Runtime.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Newtonsoft.Json.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\System.Web.Optimization.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\WebGrease.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\System.Web.Optimization.xml
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Antlr3.Runtime.pdb
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Newtonsoft.Json.xml
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\obj\Debug\PayProj.csprojResolveAssemblyReference.cache
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\obj\Debug\PayProj.dll
+c:\users\nares_000\documents\visual studio 2015\Projects\PayProj\PayProj\obj\Debug\PayProj.pdb
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\csc.exe
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\System.Collections.Immutable.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\vbc.exe
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\VBCSCompiler.exe
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\roslyn\VBCSCompiler.exe.config
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\PayProj.dll.config
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\PayProj.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\PayProj.pdb
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Antlr3.Runtime.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\AspNet.ScriptManager.jQuery.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.Web.Infrastructure.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Newtonsoft.Json.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\System.Web.Optimization.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\WebGrease.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\System.Web.Optimization.xml
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Antlr3.Runtime.pdb
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Newtonsoft.Json.xml
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\obj\Debug\PayProj.csprojResolveAssemblyReference.cache
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\obj\Debug\PayProj.dll
+G:\ASP.NET\Course Project\PayProj upto admin\PayProj\obj\Debug\PayProj.pdb
